@@ -6,5 +6,5 @@ end
 greeting("Gabriella")
 
 puts "or default: "
-gretting
+greeting
 
